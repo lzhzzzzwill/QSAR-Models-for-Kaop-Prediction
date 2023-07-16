@@ -1,0 +1,17 @@
+Organic.contaminants,Average similarity,Group
+RF-Pub,0.039,Model
+Tylosin,0.225,Not existed in training set
+Tetracycline,0.251,Not existed in training set
+Trimethoprim,0.256,Not existed in training set
+Sulfathiazole,0.212,Not existed in training set
+Roxithromycin ,0.201,Not existed in training set
+Enrofloxacin,0.252,Not existed in training set
+Ciprofloxacin,0.256,Not existed in training set
+Sulfadimethoxine,0.227,Existed in training set
+Lomefloxacin,0.255,Existed in training set
+Norfloxacin,0.263,Existed in training set
+Sulfamethoxazole,0.24,Existed in training set
+Sulfamerazine,0.222,Existed in training set
+Sulfamethazine,0.224,Existed in training set
+Ofloxacin,0.243,Existed in training set
+Azithromycin,0.202,Existed in training set
