@@ -2,7 +2,9 @@
 
 ## This repository contains the data and scripts involved in the publication:
 [Unveiling similarities and differences in oxidation processes of oxidants and derived reactive oxygen species through machine learning interpretation of oxidation rate constants](https://www.sciencedirect.com/science/article/pii/S1383586624003885?via%3Dihub)
-
+<div align="center">
+  <img src="https://github.com/lzhzzzzwill/QSAR-Models-for-Kaop-Prediction/blob/main/viz/TOC1.png">
+</div>
 
 ## Environment requirements:
 ### Python 3.8.16:
