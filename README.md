@@ -37,5 +37,5 @@ Interpretation of models.
 ## Citing:
 If you use the dataset or any trained models in your work, please cite the following article-
 
-Z. Lin, S. Pan, H. Li and J. Yao, [Unveiling similarities and differences in oxidation processes of oxidants and derived reactive oxygen species through machine learning interpretation of oxidation rate constants](https://www.sciencedirect.com/science/article/pii/S1383586624003885?via%3Dihub). *Separation and Purification Technology* 2024.
+[Z. Lin, S. Pan, H. Li and J. Yao, Unveiling similarities and differences in oxidation processes of oxidants and derived reactive oxygen species through machine learning interpretation of oxidation rate constants. *Separation and Purification Technology* 2024.](https://www.sciencedirect.com/science/article/pii/S1383586624003885?via%3Dihub)
 
