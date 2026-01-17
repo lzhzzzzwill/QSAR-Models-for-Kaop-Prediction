@@ -38,6 +38,7 @@ Interpretation of models.
 If you use the dataset or any trained models in your work, please cite the following article-
 ```bibtex
 @article{LIN2024126649,
+        author = {Lin, Zuhong and Pan, Siyuan and Li, Haipu and Yao, Jingjing},
         title = {Unveiling similarities and differences in oxidation processes of oxidants and derived reactive oxygen species through machine learning interpretation of oxidation rate constants},
         journal = {Separation and Purification Technology},
         volume = {340},
