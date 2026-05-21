@@ -4,7 +4,7 @@
   <img src="https://github.com/lzhzzzzwill/QSAR-Models-for-Kaop-Prediction/blob/main/viz/TOC1.png">
 </div>
 
-## Environment requirements:
+## Environment requirements: 
 ### Python 3.8.16:
 Model construction
 ### R 4.2.1
