@@ -17,7 +17,7 @@ The workflow for QSAR models construction and evaluation, applicability domain a
 Visualization for workflow. (.OH as an example for all processes)
 
 ## Software:
-### Vs code: 
+### ide: 
 Code Editor for The workflow.ipynb
 ### R studio:
 Code Editor for viz.R
